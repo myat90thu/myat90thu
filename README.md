@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myat90thu
 - 👀 I’m interested in programming especially python.
-- 🌱 I’m currently learning for business model.
+- 🌱 I’m currently learning for MLM.
 - 💞️ I’m looking to collaborate on python community...
 - 📫 How to reach me hello :D...
 
