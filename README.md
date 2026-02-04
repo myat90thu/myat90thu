@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @myat90thu
-- 👀 I’m interested in programming especially python.
-- 🌱 I’m currently learning for MLM.
-- 💞️ I’m looking to collaborate on python community...
+- 👋 Hi, I’m Max.
+- 👀 I’m TechnoFunctional Bridge.
+- 🌱 I’m probl3m solver.
+- 💞️ I’m looking to have more friends...
 - 📫 How to reach me hello :D...
 
 <!---
